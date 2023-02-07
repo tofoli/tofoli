@@ -1,4 +1,4 @@
-## Bem vindo 👋 ![](https://komarev.com/ghpvc/?username=tofoli&label=Visitante+nº)
+## Bem vindo 👋
 
 [![](https://img.shields.io/badge/@tofoli-100000?style=flat&logo=github&logoColor=white)](https://github.com/tofoli)
 [![](https://img.shields.io/badge/@tofoli-330F63?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/tofoli)
@@ -8,6 +8,8 @@
 Olá, me chamo Luis, sou Arquiteto de Software amante de cerveja e café. Minha stack é focada em micro serviços e micro front-end. Apesar de ser arquiteto, sempre reservo horas do meu dia para desenvolvimento 👨‍💻, pois amo programação. Considero a arte moderna 🙈. Atualmente desenvolvo com React, NodeJS e Ruby on Rails, mas estou sempre estudando e testando novas tecnologias.
 
 Sou autodidata e possuo uma extrema facilidade de aprender e assimilar conteúdos novos. Por conta disso já organizei diversos webinars, pois além de programar, eu amo ensinar as pessoas e repassar meu conhecimento.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tofoli&show_icons=true&theme=dracula&count_private=true)
 
 ### Skills
 
