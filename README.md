@@ -3,7 +3,6 @@
 [![](https://img.shields.io/badge/@tofoli-100000?style=flat&logo=github&logoColor=white)](https://github.com/tofoli)
 [![](https://img.shields.io/badge/@tofoli-330F63?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/tofoli)
 [![](https://img.shields.io/badge/@devtofoli-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devtofoli)
-[![](https://img.shields.io/badge/@luiscerveja-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/luiscerveja)
 
 Olá, me chamo Luis, sou Arquiteto de Software amante de cerveja e café. Minha stack é focada em micro serviços e micro front-end. Apesar de ser arquiteto, sempre reservo horas do meu dia para desenvolvimento 👨‍💻, pois amo programação. Considero a arte moderna 🙈. Atualmente desenvolvo com React, NodeJS e Ruby on Rails, mas estou sempre estudando e testando novas tecnologias.
 
