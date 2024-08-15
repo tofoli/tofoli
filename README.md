@@ -9,8 +9,6 @@ Olá, me chamo Luis, sou Arquiteto de Software amante de cerveja e café. Minha 
 
 Sou autodidata e possuo uma extrema facilidade de aprender e assimilar conteúdos novos. Por conta disso já organizei diversos webinars, pois além de programar, eu amo ensinar as pessoas e repassar meu conhecimento.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tofoli&show_icons=true&theme=dracula&count_private=true)
-
 ### Skills
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
